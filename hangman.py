@@ -1,5 +1,8 @@
 import random
 
+#Game of hangman 1.0
+#Author - rboychev
+
 name = input("Enter your name: ")
 print("Good luck", name)
 
